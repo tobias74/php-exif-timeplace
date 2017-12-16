@@ -1,6 +1,6 @@
 <?php
 
-namespace Zeitfaden\Controller;
+namespace PhpExifTimePlace;
 
 
 class ExifTimePlaceExtractor

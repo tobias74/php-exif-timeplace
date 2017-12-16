@@ -3,5 +3,10 @@
     "description": "reads time and place from exif",
     "type": "library",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpExifTimePlace\\": "src/"
+        }
+    },
     "require": {}
 }
