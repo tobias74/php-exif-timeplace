@@ -1,0 +1,7 @@
+{
+    "name": "tobias74/php-exif-timeplace",
+    "description": "reads time and place from exif",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
