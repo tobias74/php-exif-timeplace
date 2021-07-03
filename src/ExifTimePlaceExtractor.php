@@ -59,6 +59,10 @@ class ExifTimePlaceExtractor
             throw new ExifException();
         }
         
+        if ($myDate === false) {
+            throw new ExifException();
+        }
+        
         return $myDate;
     }
     
